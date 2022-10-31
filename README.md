@@ -14,7 +14,7 @@ Valhalla 💞️
 
 Savage   💞️
 
-Impact x kill   👀 
+Impact x kill   🤓 
 
 AdicctionZone  👀
 
@@ -34,7 +34,7 @@ Valhalla  💞️
 
 Savage    💞️
 
-impact x kill 👀
+impact x kill 🤓
 
 AddictionZone  👀
 
