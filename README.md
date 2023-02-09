@@ -26,7 +26,7 @@ AdicctionZone  👀
 
 I specialize in Combat Surf but I handle more modalities.
 
-**Communities I have been to: Valhalla**
+**Communities I have been to:**
 
 WineWald  💞️
 
@@ -38,6 +38,6 @@ impact x kill 🤓
 
 AddictionZone  👀
 
-**My current server/community:**
+**My current server/community: Valhalla **
 
 
