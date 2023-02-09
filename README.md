@@ -38,6 +38,6 @@ impact x kill 🤓
 
 AddictionZone  👀
 
-**My current server/community: Valhalla **
+**My current server/community: Valhalla**
 
 
