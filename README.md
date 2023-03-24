@@ -18,7 +18,7 @@ Impact x kill   🤓
 
 AdicctionZone  👀
 
-**Mi servidor /comunidad actual : Valhalla Servidores**
+**Mi servidor /comunidad actual : Valhalla Servidores 2**
                                 
 				       Ｗｅｌｃｏｍｅ
 				       
@@ -38,6 +38,6 @@ impact x kill 🤓
 
 AddictionZone  👀
 
-**My current server/community: Valhalla Servidores**
+**My current server/community: Valhalla Servidores 2**
 
 
