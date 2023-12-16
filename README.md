@@ -14,11 +14,9 @@ Valhalla 💞️
 
 Savage   💞️
 
-Impact x kill   🤓 
-
 AdicctionZone  👀
 
-**Mi servidor /comunidad actual : Valhalla Servidores 2**
+**Mi servidor /comunidad actual : **
                                 
 				       Ｗｅｌｃｏｍｅ
 				       
@@ -34,10 +32,7 @@ Valhalla  💞️
 
 Savage    💞️
 
-impact x kill 🤓
 
-AddictionZone  👀
-
-**My current server/community: Valhalla Servidores 2**
+**My current server/community: **
 
 
