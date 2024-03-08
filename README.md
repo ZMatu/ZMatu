@@ -23,5 +23,5 @@ Savage    💞️
 
 
 
-![ZMatu- Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZMatu?cardType=level&theme=radical&preferLogin=false) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZMatu&langs_count=20&theme=radical)
+![ZMatu- Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZMatu?cardType=level&theme=radical&preferLogin=false) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZMatu&langs_count=20&theme=radical)![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZMatu.ZMatu)
 
