@@ -37,5 +37,6 @@ Savage    💞️
 
 
 
-![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?ZMatu=hoangsonww&theme=radical&layout=compact)
+**STATS**
+![ZMATU Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hoangsonww?cardType=level&theme=radical&preferLogin=false)
 
