@@ -1,23 +1,5 @@
 
-                                                               
-			             Ｂｉｅｎｖｅｎｉｄｏ
-
-🌱 **Configuro servidores de CSGO desde 2019.**
-
-Me especializo en Combat Surf pero manejo mas modalidades.
-
-**Comunidades en las que estuve:**
-
-WineWald 💞️
-
-Valhalla 💞️
-
-Savage   💞️
-
-AdicctionZone  👀
-
-**Mi servidor /comunidad actual : **
-                                
+                                                                                          
 				       Ｗｅｌｃｏｍｅ
 				       
 🌱 **Configuring servers since 2019.**
