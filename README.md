@@ -19,12 +19,11 @@ Savage    💞️
 
 
 
-### :fire: STATS :
+### :fire: STATS :fire: :
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZMatu&theme=dark&background=000000)](https://git.io/streak-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZMatu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Valencua GitHub stats](https://github-readme-stats.vercel.app/api?username=Valencua&show_icons=true&theme=dark)
 
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCojvAe3geXl3OaPZCJEf0ag">
