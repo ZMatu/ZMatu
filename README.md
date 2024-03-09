@@ -23,6 +23,4 @@ Savage    💞️
 
 
 
- [![ZMatu STATS](https://github-stats-alpha.vercel.app/api?username=ZMatu&cc=000&tc=fff&ic=fff&bc=000 "ZMatu STATS")](https://github-stats-alpha.vercel.app/api?username=ZMatu&cc=000&tc=fff&ic=fff&bc=000 "ZMatu STATS")
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZMatu&langs_count=20&theme=radical)
+ [![ZMatu STATS](https://github-stats-alpha.vercel.app/api?username=ZMatu&cc=000&tc=fff&ic=fff&bc=000 "ZMatu STATS")](https://github-stats-alpha.vercel.app/api?username=ZMatu&cc=000&tc=fff&ic=fff&bc=000 "ZMatu STATS")[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZMatu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
