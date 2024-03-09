@@ -24,9 +24,6 @@ Savage    💞️
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZMatu&theme=dark&background=000000)](https://git.io/streak-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZMatu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div id="badges">
-  <a href="https://steamcommunity.com/id/zmatu_">
-    <img src="https://cdn.mobilesyrup.com/wp-content/uploads/2018/07/steam-logo.jpg" alt="Steam Badge"/>
-  </a>
   <a href="https://www.youtube.com/channel/UCojvAe3geXl3OaPZCJEf0ag">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
