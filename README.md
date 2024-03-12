@@ -1,6 +1,3 @@
-
-                                                                                          
-				       Ｗｅｌｃｏｍｅ
 				       
 🌱 **Configuring servers since 2019.**
 
